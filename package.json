@@ -1,12 +1,12 @@
 {
   "name": "proyecto-backend",
   "version": "1.0.0",
-  "description": "Proyecto ",
+  "description": "Proyecto Backend ",
   "main": "app.js",
   "scripts": {
     "start": "node server.js"
   },
-  "author": "Sebas",
+  "author": "Leidy Diana",
   "license": "ISC",
   "dependencies": {
     "bcryptjs": "^2.4.3",
